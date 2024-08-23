@@ -1,0 +1,31 @@
+119th record
+2019 Batch E-1 Sem-1 Regular Results:May-2022
+ID: S190541	Branch: CSE	Year: E1SEM1
+SUBJECT	CODE	GRADE
+Calculus & Linear Algebra	MA1102	A
+Basic Electrical and Electronics Engineering	EE1109	B
+Problem Solving and Programming Through C	CS1101	D
+Engineering Graphics and Computer Drafting	ME1114	Ex
+English Language Communication skills Lab-1	EG1181	B
+Basic Electrical and Electronics Engineering Lab	EE1189	Ex
+Problem Solving and Programming Through C Lab	CS1181	A
+Indian Constitution	HS1101	D
+Note : WH : Result on Withheld , AB: Absent and R: Remedial for any queries Contact Exam Cell, RGUKT SKLM
+© 2020 Rajiv Gandhi University of Knowledge Technologies, Srikakulam
+
+
+120th record
+2019 Batch E-1 Sem-1 Regular Results:May-2022
+ID: S190601	Branch: CSE	Year: E1SEM1
+SUBJECT	CODE	GRADE
+Calculus & Linear Algebra	MA1102	Ex
+Basic Electrical and Electronics Engineering	EE1109	Ex
+Problem Solving and Programming Through C	CS1101	C
+Engineering Graphics and Computer Drafting	ME1114	Ex
+English Language Communication skills Lab-1	EG1181	Ex
+Basic Electrical and Electronics Engineering Lab	EE1189	Ex
+Problem Solving and Programming Through C Lab	CS1181	D
+Indian Constitution	HS1101	D
+Note : WH : Result on Withheld , AB: Absent and R: Remedial for any queries Contact Exam Cell, RGUKT SKLM
+© 2020 Rajiv Gandhi University of Knowledge Technologies, Srikakulam
+
